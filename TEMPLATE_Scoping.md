@@ -1,4 +1,5 @@
 # INCIDENT RESPONSE SCOPING
+*Try to convert all times into UTC or at the very least state specific time zones*
  
 ## INITIAL QUESTIONS
 Company and key members?
@@ -20,7 +21,6 @@ What are the objectives?
 
 
 ## DETECTION
-*Try to convert all times into UTC or at the very least state specific time zones*
 
 When was the incident detected?
 
