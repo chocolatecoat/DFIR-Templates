@@ -59,20 +59,21 @@ How many users?
 
 Organization of the security/response team?
 
-Toolset
-•	Network/Firewall
+### Toolset
 
-•	EDR/AV
+	•	Network/Firewall
 
-•	DNS
+	•	EDR/AV
 
-•	SIEM/Central Logging
+	•	DNS
 
-•	Asset Management
+	•	SIEM/Central Logging
 
-•	DLP
+	•	Asset Management
 
-•	Mail Protection
+	•	DLP
+
+	•	Mail Protection
 
 
 ## NETWORK
