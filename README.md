@@ -7,4 +7,13 @@ and procedures to help you get those pesky reports done and take notes quickly a
 
 If you need ideas please check out the DFIR 102 powerpoint for the full presentation from GrrCon 2022!
 
+Current Documents:
+
+DFIR 102 - How do I investigate? == GrrCon 2022 presentation on Investigation Methodology
+IncidentTracking.xlsx == Template for creating your own timeline along with tracking IOCs
+TEMPLATE_Final Report == Don't know where to start with your report, well use this template to have some solid headers and ideas 
+TEMPLATE_InvestigaitonNotes == This is where you list out your notes while investigating, if you fill this out you wil have 90% of your report written
+TEMPLATE_Scoping == Pregenerated questions to ask while trying to figure out what this incident is about. TIP: Have one person ask and another write the answers
+TEMPLATE_Scoping.md == Same questions but easier to see online if you want a preview
+
 Twitter: @CyberCoat
