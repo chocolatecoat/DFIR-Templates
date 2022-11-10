@@ -11,7 +11,7 @@ Current Documents:
 
 * **DFIR 102 - How do I investigate?** == GrrCon 2022 presentation on Investigation Methodology
 
-* **IncidentTracking.xlsx** == Template for creating your own timeline along with tracking IOCs
+* **Incident_Evidence_Timeline.xlsx** == Template for creating your own timeline along with tracking IOCs
 
 * **TEMPLATE_Final Report** == Don't know where to start with your report, well use this template to have some solid headers and ideas
 
@@ -23,3 +23,4 @@ Current Documents:
 
 
 Twitter: @CyberCoat
+Mastodon: @ChocolateCoat@infosec.exchange
