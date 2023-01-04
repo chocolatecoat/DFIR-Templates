@@ -21,6 +21,8 @@ Current Documents:
 
 * **TEMPLATE_Scoping.md** == Same questions but easier to see online if you want a preview
 
+If you want more indepth walkthrough on how to use these templates, start here on my blog!
+https://chocolatecoat4n6.com/2022/10/27/investigation-framework-1-scoping/
 
 Twitter: @CyberCoat
 Mastodon: @ChocolateCoat@infosec.exchange
