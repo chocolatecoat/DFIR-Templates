@@ -24,6 +24,6 @@ Current Documents:
 If you want more indepth walkthrough on how to use these templates, start here on my blog!
 https://chocolatecoat4n6.com/2022/10/27/investigation-framework-1-scoping/
 
-Twitter: @CyberCoat
+Twitter: https://twitter.com/CyberCoat
 
 Mastodon: @ChocolateCoat@infosec.exchange
