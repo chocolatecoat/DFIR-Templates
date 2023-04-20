@@ -21,6 +21,11 @@ Current Documents:
 
 * **TEMPLATE_Scoping.md** == Same questions but easier to see online if you want a preview
 
+
+
+[**GRAB THEM ALL HERE**](https://github.com/chocolatecoat/DFIR-Templates/releases/download/v1.0.0/DFIR_Templates.zip)
+
+
 If you want more indepth walkthrough on how to use these templates, start here on my blog!
 https://chocolatecoat4n6.com/2022/10/27/investigation-framework-1-scoping/
 
