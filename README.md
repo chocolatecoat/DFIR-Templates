@@ -9,6 +9,8 @@ If you need ideas please check out the DFIR 102 powerpoint for the full presenta
 
 Current Documents:
 
+* **Analysis Without Paralaysis*** == GrrCon 2023 presentation on structured analysis
+
 * **DFIR 102 - How do I investigate?** == GrrCon 2022 presentation on Investigation Methodology
 
 * **Incident_Evidence_Timeline.xlsx** == Template for creating your own timeline along with tracking IOCs
