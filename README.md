@@ -5,13 +5,8 @@ Hi All,
 Since there is so many amazing people creating incredible DFIR tools, I thought I'd focus on the thing everyone hates DOCUMENTATION. Will be updating Incident Response documents
 and procedures to help you get those pesky reports done and take notes quickly and efficiently. Always appreciate any feedback
 
-If you need ideas please check out the DFIR 102 powerpoint for the full presentation from GrrCon 2022!
 
 Current Documents:
-
-* **Analysis Without Paralaysis** == GrrCon 2023 presentation on structured analysis
-
-* **DFIR 102 - How do I investigate?** == GrrCon 2022 presentation on Investigation Methodology
 
 * **Incident_Evidence_Timeline.xlsx** == Template for creating your own timeline along with tracking IOCs
 
@@ -20,8 +15,6 @@ Current Documents:
 * **TEMPLATE_InvestigationNotes** == This is where you list out your notes while investigating, if you fill this out you wil have 90% of your report written
 
 * **TEMPLATE_Scoping** == Pregenerated questions to ask while trying to figure out what this incident is about. TIP: Have one person ask and another write the answers
-
-* **TEMPLATE_Scoping.md** == Same questions but easier to see online if you want a preview
 
 
 
