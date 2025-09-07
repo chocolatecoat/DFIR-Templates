@@ -17,9 +17,7 @@ Current Documents:
 * **TEMPLATE_Scoping** == Pregenerated questions to ask while trying to figure out what this incident is about. TIP: Have one person ask and another write the answers
 
 
-
-[**GRAB THEM ALL HERE**](https://github.com/chocolatecoat/DFIR-Templates/releases/download/v1.0.0/DFIR_Templates.zip)
-
+**Check the latest Releases for the most updated version!**
 
 If you want more indepth walkthrough on how to use these templates, [start here on my blog!](https://chocolatecoat4n6.com/2022/10/27/investigation-framework-1-scoping/)
 
